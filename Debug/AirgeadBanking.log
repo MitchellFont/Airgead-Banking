@@ -1,0 +1,5 @@
+﻿  Bank.cpp
+C:\Users\mitch\source\repos\AirgeadBanking\AirgeadBanking\Bank.cpp(39,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  AirgeadBanking.vcxproj -> C:\Users\mitch\source\repos\AirgeadBanking\Debug\AirgeadBanking.exe
